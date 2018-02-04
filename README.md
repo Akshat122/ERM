@@ -10,9 +10,9 @@ Admin Login :<br>
  <hr>
  This a simple PHP project made by me and my friends <br>
  <hr>
- # Employee Login<br>
+ <h1> Employee Login</h1><br>
  <img src="https://github.com/Akshat122/ERM/blob/master/backup/ERM%20Employee/Screenshot%20(27).png">
  <br>
- # Admin Login<br>
+ <h1> Admin Login</h1><br>
  <img src="https://github.com/Akshat122/ERM/blob/master/backup/ERM%20Admin/Screenshot%20(38).png">
  
